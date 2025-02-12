@@ -1,7 +1,7 @@
-# Hi I am Mohammad Alawadi
+# Hi I am Mohammad Alawadi 🍪
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealawadi)](https://github.com/therealawadi/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealawadi&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealawadi&show_icons=true)](https://github.com/therealawadi/github-readme-stats)
+
 
 
 <!--
