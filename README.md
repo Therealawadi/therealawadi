@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi I am Alawadi
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealawadi)](https://github.com/therealawadi/github-readme-stats)
+
 
 <!--
 **Therealawadi/therealawadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
