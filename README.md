@@ -1,4 +1,4 @@
-# Hi I am Alawadi
+# Hi I am Mohammad Alawadi
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealawadi)](https://github.com/therealawadi/github-readme-stats)
 
